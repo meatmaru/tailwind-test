@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />
-  <h1 class="text-3xl text-red-500 ">こんにちは</h1>
+  <h1 class="text-3xl text-red-500 ">こんばんわ</h1>
 </template>
 
 <style>
